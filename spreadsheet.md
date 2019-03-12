@@ -43,3 +43,9 @@ Record metadata in a separate plain text file.
 DATES!!!!!!!!!!!
 
 Storing dates as YEAR, MONTH, DAY
+
+Best format is recording YEAR, MONTH and DAY in seperate columns.
+Second best format: yyyy-mm-dd  in one column.
+
+SAVE as CSV would be better. CSV won't save the formula, just the value.
+
